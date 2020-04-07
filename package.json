@@ -1,0 +1,8 @@
+{
+  "name": "cashless-backend",
+  "version": "1.0.0",
+  "description": "backend for cashless",
+  "main": "server.js",
+  "author": "gunturbudi16 <gunturkurniawan411@yahoo.co.id>",
+  "license": "MIT"
+}
